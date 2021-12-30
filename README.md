@@ -3,10 +3,10 @@ Embodied and operational Global Warming Potential dataset for building envelopes
 
 Interactive visualization of the dataset available here:
 
-Metric
+- Metric
 https://assemblies-metric.herokuapp.com/
 
-Imperial
+- Imperial
 https://assemblies-imperial.herokuapp.com/
 
 Copyright Tomás Méndez Echenagucia, Teresa Moroseos and Christpher Meek - University of Washington (2021)
